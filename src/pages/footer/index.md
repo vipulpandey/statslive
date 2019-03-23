@@ -3,7 +3,7 @@ templateKey: footer
 logoImage:
   image: /img/js-wakanda.png
   imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  tagline: Your friendly local AI Beginners meetup
 socialLinks:
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com

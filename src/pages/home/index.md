@@ -3,7 +3,7 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+title: Meet other Artificial Intelligence Enthusiast in India
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -16,13 +16,13 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'mailto:statsmatterin@gmail.com'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Learn AI
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
+    Artificial Intelligence meetup groups in India where Artificial Intelligence, Machine Learning & Deep Learning Enthusiasts get together
     for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  title: Artificial Intelligence India
 ---
 
