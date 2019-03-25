@@ -2,8 +2,8 @@
 templateKey: home-page
 headerImage:
   image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other Artificial Intelligence Enthusiast in India
+  imageAlt: StatsMatter Logo
+title: Artificial Intelligence Awareness Initiative in India
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -21,8 +21,9 @@ callToActions:
 seo:
   browserTitle: Learn AI
   description: >-
-    Artificial Intelligence meetup groups in India where Artificial Intelligence, Machine Learning & Deep Learning Enthusiasts get together
-    for presentations and to meet others in the community.
+    Artificial Intelligence meetup groups in India where Artificial
+    Intelligence, Machine Learning & Deep Learning Enthusiasts get together for
+    presentations and to meet others in the community.
   title: Artificial Intelligence India
 ---
 
