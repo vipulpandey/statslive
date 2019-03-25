@@ -3,7 +3,7 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: StatsMatter Logo
-title: Artificial Intelligence Awareness Initiative in India
+title: Artificial Intelligence Awareness Initiative's in India
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
