@@ -1,9 +1,9 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local AI Beginners meetup
+  image: /img/logo1.png
+  imageAlt: Artificial Intelligence India
+  tagline: Your friendly local AI Beginners events and meetups
 socialLinks:
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
