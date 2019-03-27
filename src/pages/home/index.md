@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
+  image: /img/statsmatter-logo.png
   imageAlt: StatsMatter Logo
 title: Artificial Intelligence Awareness Initiative's in India
 upcomingMeetupHeading: Upcoming Meetup
