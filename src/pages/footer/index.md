@@ -12,14 +12,14 @@ socialLinks:
   - image: /img/twitter.svg
     imageAlt: Follow us on Twitter
     label: twitter.com
-    linkURL: 'https://twitter.com/'
+    linkURL: 'https://twitter.com/statsmattersm/'
   - image: /img/facebook.svg
     imageAlt: Join our Facebook group
     label: facebook.com
-    linkURL: 'https://www.facebook.com/'
+    linkURL: 'https://www.facebook.com/Statsmatter/'
   - image: /img/email.svg
     imageAlt: Contact us by email
     label: email us
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'mailto:statsmatterin@gmail.com'
 ---
 
