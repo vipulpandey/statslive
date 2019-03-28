@@ -46,13 +46,11 @@ organizers:
       imageAlt: Co-Working Space
       name: Co-Working Space
 seo:
-  browserTitle: About | JavaScript Wakanda
+  browserTitle: About | Learn AI
   description: >-
-    JavaScript Wakanda is a meetup group that holds monthly meetups where
-    JavaScript developers get together for presentations and to meet others in
-    the community.
-  title: About | JS Wakanda
+    "AI for beginners" is a meetup group that holds monthly meetups where AI enthusiast get together for presentations and to meet others in the community.
+  title: About | Learn AI
 ---
 ## Sharing Ideas and Meeting Others
 
-"AI for Beginners" is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about Artificial Intelligence, Machine Learning programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive. Here's the glimpse of some of the initiative's under the banner of StatsMatter "to create Awareness about the industry wise disruption by AI" and prepare a workforce of AI professionals in India.
+StatsMatter provides meetups, events, workshops, learning solutions for companies and individual's interested in incorporating artificial intelligence in their work culture. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about Artificial Intelligence, Machine Learning programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive. Here's the glimpse of some of the initiative's under the banner of StatsMatter "to create Awareness about the industry wise disruption by AI" and prepare a workforce of AI professionals in India.
