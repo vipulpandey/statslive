@@ -21,12 +21,12 @@ gallery:
     imageAlt: AI in Legal.
   - image: /img/8.jpeg
     imageAlt: AI in manufacturing.
+  - image: /img/1.png
+    imageAlt: Wakanda developers working together at a table.
   - image: /img/image0.jpeg
     imageAlt: AI Workshops
   - image: /img/image1.jpeg
     imageAlt: AI for Executives.
-  - image: /img/1.png
-    imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
   ## Educational offerings & Events
 
