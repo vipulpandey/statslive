@@ -5,7 +5,6 @@ mainImage:
   image: /img/teemu-paananen-376238-unsplash.jpg
   imageAlt: AI presenting at a meetup.
 gallery:
-
   - image: /img/1.jpeg
     imageAlt: AI in agritech.
   - image: /img/2.jpeg
@@ -17,7 +16,7 @@ gallery:
   - image: /img/5.jpeg
     imageAlt: AI in governence.
   - image: /img/6.jpeg
-    imageAlt: AI in Automotive.  
+    imageAlt: AI in Automotive.
   - image: /img/7.jpeg
     imageAlt: AI in Legal.
   - image: /img/8.jpeg
@@ -26,7 +25,7 @@ gallery:
     imageAlt: AI Workshops
   - image: /img/image1.jpeg
     imageAlt: AI for Executives.
-  - image: /img/annie-spratt-608001-unsplash.jpg
+  - image: /img/1.png
     imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
   ## Educational offerings & Events
@@ -48,7 +47,9 @@ organizers:
 seo:
   browserTitle: About | Learn AI
   description: >-
-    "AI for beginners" is a meetup group that holds monthly meetups where AI enthusiast get together for presentations and to meet others in the community.
+    "AI for beginners" is a meetup group that holds monthly meetups where AI
+    enthusiast get together for presentations and to meet others in the
+    community.
   title: About | Learn AI
 ---
 ## Sharing Ideas and Meeting Others
