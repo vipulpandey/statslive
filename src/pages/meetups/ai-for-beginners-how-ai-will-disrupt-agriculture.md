@@ -1,10 +1,11 @@
 ---
 templateKey: meetup
-title: 'AI for Beginners : How AI will disrupt Agriculture ?'
+title: 27 April 2019
 date: 2019-04-26T18:36:00.000Z
 presenters:
   - image: /img/bitmoji2019612813.png
     name: Vipul Pandey
+    presentationTitle: 'AI for Beginners : How AI will disrupt Agriculture ?'
     text: >-
       According to UN Food and Agriculture Organization, the population will
       increase by 2 billion by 2050. However, only 4% additional land will come
