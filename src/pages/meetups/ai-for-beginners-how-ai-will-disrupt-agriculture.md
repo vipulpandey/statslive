@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
-title: 27 April 2019
-date: 2019-04-26T18:36:00.000Z
+title: 30 April 2019
+date: 2019-04-29T18:36:00.000Z
 presenters:
   - image: /img/bitmoji2019612813.png
     name: Vipul Pandey
@@ -20,6 +20,9 @@ presenters:
       techniques, precision farming landscape, the future of agriculture and the
       challenges ahead.
 location:
+  mapsLatitude: 18.5315979
+  mapsLink: 'https://goo.gl/maps/gj95mDdBjxSASqPQ8'
+  mapsLongitude: 73.8469225
   name: 'Pune, Maharashtra '
 ---
 
