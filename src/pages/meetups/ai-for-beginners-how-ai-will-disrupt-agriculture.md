@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: 'AI for Beginners : How AI will disrupt Agriculture ?'
-date: 2019-04-24T12:36:02.133Z
+date: 2019-04-26T18:36:00.000Z
 presenters:
   - image: /img/bitmoji2019612813.png
     name: Vipul Pandey
