@@ -8,6 +8,8 @@ presenters:
       - linkText: Class live folder
         linkURL: >-
           https://drive.google.com/drive/folders/1F4DjUgYtO3dBpqBSGc54yMGPB_uwypYn
+      - linkText: AIC Pinnacle Incubation
+        linkURL: 'https://www.aic-pinnacle.org/incubator/'
     name: Vipul
     presentationTitle: Intro to Keras and Exploring Drug side-effect datasets
     text: >-
